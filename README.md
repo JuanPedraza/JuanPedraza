@@ -1,31 +1,25 @@
 ```
-class SoftwareEngineer:
+class Developer:
     
     def __init__(self):
     self.name = "Juan Pedraza"
     self.role = "Trainee Developer"
     self.from = "Colombia"
-    self.about = {'Linkedin' : [LinkedIn](https://www.linkedin.com/in/juan-pedraza)  }
+    self.about = {'Hobbies': ['Movies', 'VideoGames', 'Learning'], 'Sports': ['Soccer', 'Ride bike']}
 
-    diccionario = {'nombre' : 'Carlos', 'edad' : 22, 'cursos': ['Python','Django','JavaScript'] }
-
+    
     def say_hi(self):
-    print("Thanks for dropping by, hope you find some of my work interesting.")
+    print("I’m currently working on: Improving my scripts languajes skills, focus on Python and javascript")
+    print("I’m currently learning: English in a higher level that is conversation level")
+    print("I’m looking to collaborate on: web development projects firstly then we will see")
+    print("I’m looking for help with: Mysql and Databases in general")
 
 
-    me = SoftwareEngineer()
+    me = Developer()
     me.say_hi()
 
 ```
 
-
-- 🔭 I’m currently working on: Improving my scripts languajes skills, focus on Python and javascript
-- 🌱 I’m currently learning: English in a higher level that is conversation level
-- 👯 I’m looking to collaborate on: web development projects firstly then we will see
-- 🤔 I’m looking for help with: Mysql and Databases in general
-- 📫 How to reach me:  
--   
-- 
 
 
 ## Lo más usado:
