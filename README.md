@@ -20,7 +20,8 @@ class Developer:
 
 ```
 
-
+##### Contact
+[Telegram](https://t.me/Juan_pedraza)
 
 ## Lo más usado:
 
