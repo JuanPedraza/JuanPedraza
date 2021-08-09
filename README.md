@@ -20,8 +20,9 @@ class Developer:
 
 ```
 
-##### Contact
-[Telegram](https://t.me/Juan_pedraza)
+#### Contact
+[Telegram](https://t.me/Juan_pedraza)  
+[LinkedIn](https://www.linkedin.com/in/juan-pedraza/)
 
 ## Lo más usado:
 
