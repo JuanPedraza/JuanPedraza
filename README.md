@@ -1,16 +1,16 @@
-### Hi, I'm JuanPedraza 👋
-
 ```
-    class SoftwareEngineer:
+class SoftwareEngineer:
     
+    def __init__(self):
+    self.name = "Juan Pedraza"
+    self.role = "Trainee Developer"
+    self.from = "Colombia"
+    self.about = {'Linkedin' : [LinkedIn](https://www.linkedin.com/in/juan-pedraza)  }
 
-        def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+    diccionario = {'nombre' : 'Carlos', 'edad' : 22, 'cursos': ['Python','Django','JavaScript'] }
 
-        def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+    def say_hi(self):
+    print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
     me = SoftwareEngineer()
@@ -24,7 +24,7 @@
 - 👯 I’m looking to collaborate on: web development projects firstly then we will see
 - 🤔 I’m looking for help with: Mysql and Databases in general
 - 📫 How to reach me:  
-- [LinkedIn](https://www.linkedin.com/in/juan-pedraza)  
+-   
 - 
 
 
