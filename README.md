@@ -1,7 +1,10 @@
 ### Hi, I'm JuanPedraza 👋
 
 
+``` 
+me = {'nombre' : 'Carlos', 'edad' : 22, 'cursos': ['Python','Django','JavaScript'] }
 
+``` 
 
 
 
