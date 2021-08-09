@@ -20,14 +20,14 @@ class Developer:
 
 ```
 
-#### Contact
+## Contact
 [Telegram](https://t.me/Juan_pedraza)  
 [LinkedIn](https://www.linkedin.com/in/juan-pedraza/)
 
-## Lo más usado:
+### Lo más usado:
 
 [![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPedraza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# My first Stats:
+### My first Stats:
 
 [![JuanPedraza](https://github-readme-stats.vercel.app/api?username=JuanPedraza)](https://github.com/anuraghazra/github-readme-stats)
