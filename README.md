@@ -5,7 +5,8 @@ class Developer:
     self.name = "Juan Pedraza"
     self.role = "Trainee Developer"
     self.from = "Colombia"
-    self.about = {'Hobbies': ['Movies', 'VideoGames', 'Learning'], 'Sports': ['Soccer', 'Ride bike']}
+    self.about = {'Hobbies': ['Movies', 'VideoGames', 'Learning'],
+        'Sports': ['Soccer', 'Ride bike']}
 
     
     def say_hi(self):
