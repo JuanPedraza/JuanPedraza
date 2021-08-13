@@ -10,10 +10,12 @@ class Developer:
 
     
     def say_hi(self):
-    print("I’m currently working on: Improving my scripts languajes skills, focus on Python and javascript")
-    print("I’m currently learning: English in a higher level that is conversation level")
-    print("I’m looking to collaborate on: web development projects firstly then we will see")
-    print("I’m looking for help with: Mysql and Databases in general")
+    print('''
+    :satisfied: I’m currently working on: Improving my scripts languajes skills, focus on Python and javascript,
+    I’m currently learning: English in a higher level that is conversation level,
+    I’m looking to collaborate on: web development projects firstly then we will see,
+    I’m looking for help with: Mysql and Databases in general
+    ''')
 
 
     me = Developer()
